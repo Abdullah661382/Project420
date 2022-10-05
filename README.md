@@ -4,3 +4,5 @@
 *This is an italic text*
 
 **Bold text**
+
+~~Line On my text~~
