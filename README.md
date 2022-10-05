@@ -11,4 +11,4 @@
 
 [youtube](https:youtube.com)
 
-![mario](https://en.wikipedia.org/wiki/File:MarioNSMBUDeluxe.png)
+![mario](https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png?20211214030113)
